@@ -1,0 +1,36 @@
+.footer {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: var(--primary-color);
+}
+
+.footertext{
+    line-height: 30px;
+    color: azure;
+}
+
+
+.footerquicklinks ul li{
+    background: transparent !important;
+}
+
+.footerquicklinks ul li a{
+    color: azure;
+    text-decoration: none;
+}
+
+.qlititle{
+    margin-bottom: 20px;
+    color: azure;
+    font-size: 1.1rem;
+}
+
+.logo i{
+    color: aliceblue;
+    font-size: 35px;
+}
+
+.footerquicklinks ul li i{
+    color: aliceblue;
+    font-size: 25px;
+}
